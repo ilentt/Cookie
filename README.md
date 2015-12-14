@@ -11,7 +11,7 @@ When click button "EAT COOKIES" application will change TextView "I am hungry" t
 
 ### Screenshot:
 
-![Screenshot]({{site.baseurl}}/https://raw.githubusercontent.com/ilentt/Cookie/master/app/src/main/res/drawable/screenshot.png)
+![Screenshot]({{site.baseurl}}/Cookie/master/app/src/main/res/drawable/screenshot.png)
 
 
 
