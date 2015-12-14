@@ -1,7 +1,7 @@
 # Cookie - Google Udacity Course
 ### Introduction
 
-### Cookie is a exercise in Google Udacity course use for practise View and Layout in Android App include:
+_Cookie is a exercise in Google Udacity course use for practise View and Layout in Android App include:_
 - TextView
 - ImageView
 - Button
@@ -12,6 +12,7 @@ When click button "EAT COOKIES" application will change TextView "I am hungry" t
 ### Screenshot:
 
 ![Screenshot](Cookie/master/app/src/main/res/drawable/screenshot.png)
+[![Screen Shot](images/ScreenShot.png)
 
 
 
