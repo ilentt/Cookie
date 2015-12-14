@@ -9,7 +9,7 @@
 ### Feature:
 When click button "EAT COOKIES" application will change TextView "I am hungry" to "I am full!" and change background image
 
-**** Screenshot:
+### Screenshot:
 
 ![Screenshot]({{site.baseurl}}/https://raw.githubusercontent.com/ilentt/Cookie/master/app/src/main/res/drawable/screenshot.png)
 
