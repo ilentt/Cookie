@@ -10,7 +10,9 @@ _Cookie is a exercise in Google Udacity course use for practise View and Layout 
 When click button "EAT COOKIES" application will change TextView "I am hungry" to "I am full!" and change background image
 
 ### Screenshot:
-<img src="https://raw.github.com/ilentt/Cookie/master/app/src/main/res/drawable/screenshot.png" alt="Screenshot" style="width:250px;align:center;"/>
+<img src="https://raw.github.com/ilentt/Cookie/master/app/src/main/res/drawable/screenshot.png" />
+
+<img src="http://nfnt.github.com/img/rings_300_NearestNeighbor.png" />
 
 ![Screenshot](https://raw.github.com/ilentt/Cookie/master/app/src/main/res/drawable/screenshot.png)
 
